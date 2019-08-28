@@ -1,0 +1,17 @@
+0.15
+Daniel     Cereal
+Daniel     Cheese
+Daniel     Juice
+Julie      Cereal
+Julie      Cheese
+Mark       Cereal
+Mark       Eggs
+Mark       Juice
+Mark       Shampoo
+Paulin     Cereal
+Paulin     Cheese
+Ricardo    Cereal
+Ricardo    Cheese
+Sophia     Cereal
+Sophia     Cheese
+Sophia     Shampoo
